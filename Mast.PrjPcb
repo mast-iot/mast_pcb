@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XRFPFCLN
 
 [Document4]
-DocumentPath=F:\tmp\JLCSMT_LIB\Miscellaneous Devices LC.PcbLib
+DocumentPath=PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VBCGRAFM
 
 [Configuration1]
 Name=Sources
@@ -224,7 +224,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
